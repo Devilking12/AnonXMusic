@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://telegra.ph/file/36be820a8775f0bfc773e.jpg">
+  <img src="https://graph.org/file/8d930875865ac61996057.mp4">
 </p>
 
 <h3 align="center">
@@ -61,11 +61,11 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 </h3>
 
 <p align="center">
-<a href="https://t.me/Devil_support_network"><img src="https://img.shields.io/badge/-NETWORK%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/Devil_support_network"><img src="https://img.shields.io/badge/-Devil%20Network-Red.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://t.me/feelings_for_you_baby"><img src="https://img.shields.io/badge/-Support%20Feelings-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/feelings_for_you_baby"><img src="https://img.shields.io/badge/-Feelings%20Baby-Green.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 - <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ʏᴜᴋᴋɪ](https://github.com/TeamYukki) ғᴏʀ [ʏᴜᴋᴋɪ ᴍᴜsɪᴄ ʙᴏᴛ](https://github.com/TeamYukki/YukkiMusicBot)_ </b>
