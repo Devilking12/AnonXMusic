@@ -1,5 +1,5 @@
 <h2 align="center">
-    ──「 「⋆ 𝗗𝐨𝐫𝐚 𝗫  𝐌ᴜsɪᴄ ♡ 」 」──
+「⋆ 𝗗𝐨𝐫𝐚 𝗫  𝐌ᴜsɪᴄ ♡ 」
 </h2>
 
 <p align="center">
